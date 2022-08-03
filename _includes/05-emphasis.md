@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Love Computer Science*
+_wow_
+**Love puzzles**
+__Haha__
